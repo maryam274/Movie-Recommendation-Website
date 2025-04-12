@@ -1,0 +1,17 @@
+/* Change the color of the next and previous arrows to white */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #3C00FFFF !important;
+    /* Set arrow color to white */
+    opacity: 0.8;
+    /* Slight transparency for better visuals */
+    transition: opacity 0.3s ease;
+    /* Smooth hover effect */
+    font-weight: bolder;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    opacity: 1;
+    /* Fully opaque on hover */
+}
