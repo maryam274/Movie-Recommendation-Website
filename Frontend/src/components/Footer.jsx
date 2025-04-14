@@ -98,7 +98,7 @@ const Footer = () => {
                     color: "white",
                   },
                 }}
-                href="https://github.com"
+                href="https://github.com/maryam274/Movie-Recommendation-Website.git"
                 target="_blank"
               >
                 <GitHub />
