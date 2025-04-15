@@ -91,20 +91,17 @@ react-movie-recomendation-web/
 [Material UI](https://create-react-app.dev/)<br>
 [Mongoose](https://mongoosejs.com/)<br>
 [ExpressJS](https://expressjs.com/)<br>
-[Express Validator](https://express-validator.github.io/docs/)<br>
 [React Router](https://reactrouter.com/)<br>
-[Formik](https://formik.org/)<br>
-[Yup](https://github.com/jquense/yup/)<br>
 [Axios](https://axios-http.com/)<br>
 [ThemovieDB](https://www.themoviedb.org/)<br>
 [Swiper](https://swiperjs.com/)<br>
 
 # Features
-Home Page: Displays recommended movies.
+Home Page: Displays recommended movies, popular & Top for movies & TV series.
 Movie Details: Shows detailed information about a selected movie.
-Search Page: Search for movies.
+Search Page: Search for movies, TV, People.
 Person Details: Displays information about people (e.g., actors).
-TV Series: Shows details about TV shows.
+TV Series: Shows details about TV shows & series.
 
 
 # Preview
