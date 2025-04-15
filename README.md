@@ -10,7 +10,7 @@ popcornTimeHub is a movie recommendation app built with React that provides an i
 # Tech Stack
 
 ![Frontend]: React, React Router, Material UI, Axios, Swiper
-![Backend]: Node.js, Express, Mongoose,Express Validator
+![Backend]: Node.js, Express, Mongoose
 ![API]: TheMovieDB
 ![Database]: MongoDB (via Mongoose)
 
